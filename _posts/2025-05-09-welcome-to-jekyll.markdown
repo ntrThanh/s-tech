@@ -25,5 +25,5 @@ Blog của tôi được tạo ra để chia sẻ các kiến thức từ cơ b�
 - **Thuật toán & Lập trình**
 - **Trí tuệ nhân tạo (AI)**
 - **Hệ điều hành (OS)**
-
-Cảm ơn bạn đã ghé thăm! Hy vọng bạn sẽ tìm thấy những bài viết hữu ích và thú vị tại đây, mọi góp ý xin hãy gửi qua email: [nguyentrongthanh672@gmail.com](mailto:nguyentrongthanh672@gmail.com)
+  
+Cảm ơn bạn đã ghé thăm! Hy vọng bạn sẽ tìm thấy những bài viết hữu ích và thú vị tại đây, mọi góp ý xin hãy gửi qua email:   [nguyentrongthanh672@gmail.com](mailto:nguyentrongthanh672@gmail.com)
