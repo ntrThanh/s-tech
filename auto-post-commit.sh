@@ -3,13 +3,13 @@
 bundle exec jekyll build
 
 git add .
-read -p "Enter your description of the commited behavior: " description
+while [[ -z "$description" ]]; do
+    read -p "Enter your description of the committed behavior: " description
+done
 git commit -m "$description"
 
-git push  2>&1 | while IFS= read -r line
+git push 2>&1 | while IFS= read -r line
 do
-    echo "$line"
-
     if [[ $line =~ ([0-9]+)% ]]; then
         percent=${BASH_REMATCH[1]}
         width=50
