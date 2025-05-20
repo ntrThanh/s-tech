@@ -7,18 +7,18 @@ tags: [welcome]
 image: /assets/imgs/download.jpeg
 ---
 
-Chào mừng bạn đến với **S-tech**!
+Chào mừng bạn đến với **Blog NTT**!
 
-Chào mừng bạn đến với không gian chia sẻ kiến thức về công nghệ, khoa học máy tính, lập trình và nhiều lĩnh vực thú vị khác! Blog này được xây dựng và phát triển bởi **S-tech**, với mục tiêu chia sẻ những thông tin hữu ích, những bài viết hướng dẫn, mẹo vặt, và kiến thức chuyên sâu về các chủ đề trong thế giới công nghệ.
+Chào mừng bạn đến với không gian chia sẻ kiến thức về công nghệ, khoa học máy tính, lập trình và nhiều lĩnh vực thú vị khác! Blog này được xây dựng và phát triển bởi **Blog NTT**, với mục tiêu chia sẻ những thông tin hữu ích, những bài viết hướng dẫn, mẹo vặt, và kiến thức chuyên sâu về các chủ đề trong thế giới công nghệ.
 
 
-### Mục tiêu của S-tech
+### Mục tiêu của Blog NTT
 
-**S-tech** của tôi được tạo ra để chia sẻ các kiến thức từ cơ bản đến nâng cao trong lĩnh vực công nghệ.
+**Blog NTT** của tôi được tạo ra để chia sẻ các kiến thức từ cơ bản đến nâng cao trong lĩnh vực công nghệ.
 
  
  
-### Các chủ đề chính trong **S-tech**:
+### Các chủ đề chính trong **Blog NTT**:
 
 - **Công nghệ** 
 - **Khoa học máy tính**

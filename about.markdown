@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
    
-Giới thiệu về trang **S-tech**
-- **S-tech** được tạo bởi Nguyễn Trọng Thành 
-- Trang **S-tech** được tạo ra nhằm chia sẻ những kiến thức cơ bản và nâng cao trong lĩnh vực công nghệ thông tin, khoa học máy tính, trick lỏ, tools, mẹo, đời sống, ...
+Giới thiệu về trang **Blog NTT**
+- **Blog NTT** được tạo bởi NTT 
+- Trang **Blog NTT** được tạo ra nhằm chia sẻ những kiến thức cơ bản và nâng cao trong lĩnh vực công nghệ thông tin, khoa học máy tính, trick lỏ, tools, mẹo, đời sống, ...
 
 Chủ đề trong Blog
 - Công nghệ
